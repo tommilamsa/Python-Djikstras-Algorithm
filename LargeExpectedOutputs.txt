@@ -1,0 +1,9 @@
+Expected output for large graphs
+
+graph_ADS2018_200.txt		119
+graph_ADS2018_300.txt		86
+graph_ADS2018_500.txt		185
+graph_ADS2018_750.txt		112
+graph_ADS2018_1000.txt		92
+graph_ADS2018_1500.txt		74
+graph_ADS2018_2000.txt		78
